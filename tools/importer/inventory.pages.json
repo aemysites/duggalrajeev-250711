@@ -1,0 +1,210 @@
+{
+  "templates": [
+    {
+      "name": "'Content Grid Page'",
+      "cluster": 1,
+      "pages": [
+        {
+          "url": "https://blog.zomato.com/10-years-and-counting",
+          "uuid": "a6bc19670378ce05471b9e53aaba6326c03bf7b5"
+        },
+        {
+          "url": "https://blog.zomato.com/apache-flink-journey-zomato-from-inception-to-innovation",
+          "uuid": "888c96ebfe02b72583e5eca889e163311e78c7fb"
+        },
+        {
+          "url": "https://blog.zomato.com/building-a-cost-effective-logging-platform-using-clickhouse-for-petabyte-scale",
+          "uuid": "3287de4b64493ab67a1364d1d2d061223e044f8a"
+        },
+        {
+          "url": "https://blog.zomato.com/eliminating-bottlenecks-in-real-time-data-streaming-a-zomato-ads-flink-journey",
+          "uuid": "459a3fd88e644ddef24743995df20d2b1b5cd267"
+        },
+        {
+          "url": "https://blog.zomato.com/dosas-and-decades-of-deliciousness-the-shri-ganesh-bhavan-story",
+          "uuid": "be52080646effdf8873183ef67f0d058ccc5ec13"
+        },
+        {
+          "url": "https://blog.zomato.com/diversity-dialogue-ii-building-an-inclusive-fleet-insights-from-zomatos-equitable-action-for-livelihood",
+          "uuid": "6cd5b68b96f9d766efc1795e7b11dad7ff65bd50"
+        },
+        {
+          "url": "https://blog.zomato.com/delivery-partner-well-being-introducing-a-framework-to-guide-our-efforts",
+          "uuid": "d7b289752de7f04976b90a3894a756327d2c359a"
+        },
+        {
+          "url": "https://blog.zomato.com/cups-of-change-how-blue-tokai-rewrote-indias-coffee-culture",
+          "uuid": "8e4361455de4645bccdedccf73dd219c5e44241c"
+        },
+        {
+          "url": "https://blog.zomato.com/espresso-brewing-pdfs-at-zomato-faster-than-you-can-say-cappuccino",
+          "uuid": "e6417bb99898564c6b723bff11677f519f38cd37"
+        },
+        {
+          "url": "https://blog.zomato.com/embracing-shift-left-testing-with-local-preview",
+          "uuid": "59c9ad980491d08b2763d146517e123d1fd82505"
+        },
+        {
+          "url": "https://blog.zomato.com/farewell-akriti",
+          "uuid": "0e8258ed40d3a71dbc15a8445fe249bdbcfc0d4d"
+        },
+        {
+          "url": "https://blog.zomato.com/introducing-tips-for-the-kitchen-staff",
+          "uuid": "f2d9612514235aa5c9d31b46da05a52708f23cbc"
+        },
+        {
+          "url": "https://blog.zomato.com/in-the-end-its-all-worth-it",
+          "uuid": "6f38e9da7dc8ae9dfb3749afde65ea1915bc4f07"
+        },
+        {
+          "url": "https://blog.zomato.com/introducing-pos-developer-platform-simplifying-integration-with-easy-to-use-tools",
+          "uuid": "8a049b937e6bef941c0f83b8f5911eb7925a87fb"
+        },
+        {
+          "url": "https://blog.zomato.com/how-two-young-dreamers-built-a-crowd-favourite-eatery-in-ranchi",
+          "uuid": "b49b788f2740199eb44a42185ee9b7864f3eb4f9"
+        },
+        {
+          "url": "https://blog.zomato.com/from-the-streets-of-bharat",
+          "uuid": "aff2de279c83fd41c8c86ec640928d03cb47570d"
+        },
+        {
+          "url": "https://blog.zomato.com/sweet-roots-big-dreams-and-a-whole-lot-of-frosting-the-deliure-story",
+          "uuid": "1a9b91eaf432957b81255182f13a6336aa5a68df"
+        },
+        {
+          "url": "https://blog.zomato.com/introducing-zomato-ai-your-foodie-buddy",
+          "uuid": "5864564f21c7322abccd3886a9015131c6d401c0"
+        },
+        {
+          "url": "https://blog.zomato.com/more-inclusive-delivery-fleet",
+          "uuid": "e7762ad29b24a40e4fdb2ff1e31da6999700be04"
+        },
+        {
+          "url": "https://blog.zomato.com/zoman-says-pulkit-saraswat",
+          "uuid": "ebd60907caf2b6370050da276aa83531c4764e02"
+        }
+      ]
+    },
+    {
+      "name": "'Gallery Listing Page'",
+      "cluster": 2,
+      "pages": [
+        {
+          "url": "https://blog.zomato.com/the-business-benefits-of-having-more-women-working-in-warehouses",
+          "uuid": "b7300200003391a0864fbd43f79d0daa2ac03cf0"
+        },
+        {
+          "url": "https://blog.zomato.com/zomatos-journey-to-seamless-ios-code-sharing-and-distribution",
+          "uuid": "0a08f1c3a1d46c61619236187566ec46e4a95962"
+        },
+        {
+          "url": "https://blog.zomato.com/go-beyond-building-performant-and-reliable-golang-applications",
+          "uuid": "973a9549e5f4c48ae51c7e6a4c6c43a372176647"
+        }
+      ]
+    },
+    {
+      "name": "Product Listing Page",
+      "cluster": 3,
+      "pages": [
+        {
+          "url": "https://blog.zomato.com/q2fy25",
+          "uuid": "091540bc27f1c1dc9d9c1cea100f9d7b789e75a6"
+        },
+        {
+          "url": "https://blog.zomato.com/q3fy25",
+          "uuid": "27db95c08b1a4e3028034b45e036cb7aa8cc7213"
+        }
+      ]
+    },
+    {
+      "name": "Article Listing",
+      "cluster": 4,
+      "pages": [
+        {
+          "url": "https://blog.zomato.com/q3fy24",
+          "uuid": "0943bc7aab47a4f4dd02a63ddebd2fed1294699c"
+        }
+      ]
+    },
+    {
+      "name": "'Gallery Listing'",
+      "cluster": 5,
+      "pages": [
+        {
+          "url": "https://blog.zomato.com/category/technology",
+          "uuid": "d83f20413e4efb64d4018361b6894f8cbfd8671b"
+        },
+        {
+          "url": "https://blog.zomato.com/category/community",
+          "uuid": "b64b7565ac1ced05c23085367cffe8fbdca057ca"
+        },
+        {
+          "url": "https://blog.zomato.com/category/company",
+          "uuid": "5271217c18ce2ad8c628ce471a9a96cc393eeb47"
+        }
+      ]
+    },
+    {
+      "name": "'Corporate Landing Page'",
+      "cluster": 6,
+      "pages": [
+        {
+          "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+          "uuid": "a88926ee085e7d39eab694cf5b918cb49b56a236"
+        }
+      ]
+    },
+    {
+      "name": "Product Page",
+      "cluster": 7,
+      "pages": [
+        {
+          "url": "https://blog.zomato.com/q1fy25",
+          "uuid": "6a11cc530a5d4c75e3dfcebf6c80b148e7c595f7"
+        }
+      ]
+    },
+    {
+      "name": "News Listing",
+      "cluster": 8,
+      "pages": [
+        {
+          "url": "https://blog.zomato.com/",
+          "uuid": "aab61d6434db3df26f11008ab9cf96689a3830d0"
+        }
+      ]
+    },
+    {
+      "name": "'Content Grid Page'",
+      "cluster": 9,
+      "pages": [
+        {
+          "url": "https://blog.zomato.com/category/culture",
+          "uuid": "59ea1e59199e42ce7e6aa6eb2904912a5f445ae8"
+        }
+      ]
+    },
+    {
+      "name": "'Content Showcase Page'",
+      "cluster": 10,
+      "pages": [
+        {
+          "url": "https://blog.zomato.com/idli-spice-and-everything-nice-mysore-raman-idlis-journey-to-success",
+          "uuid": "d14a0ed875d1fc0c71d9d2f41aefe1dd758778f8"
+        }
+      ]
+    },
+    {
+      "name": "'Product Listing Page'",
+      "cluster": 11,
+      "pages": [
+        {
+          "url": "https://blog.zomato.com/q4fy24",
+          "uuid": "7495a92519801fa9ebc7d8679b879ebb82598d72"
+        }
+      ]
+    }
+  ]
+}
