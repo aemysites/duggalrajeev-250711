@@ -1,0 +1,2166 @@
+{
+  "fragments": [
+    {
+      "name": "nav",
+      "path": "/nav",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://blog.zomato.com/q2fy25",
+          "urlHash": "091540bc27f1c1dc9d9c1cea100f9d7b789e75a6",
+          "uuid": "091540bc-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.zomato.com/q3fy24",
+          "urlHash": "0943bc7aab47a4f4dd02a63ddebd2fed1294699c",
+          "uuid": "0943bc7a-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.zomato.com/zomatos-journey-to-seamless-ios-code-sharing-and-distribution",
+          "urlHash": "0a08f1c3a1d46c61619236187566ec46e4a95962",
+          "uuid": "0a08f1c3-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.zomato.com/farewell-akriti",
+          "urlHash": "0e8258ed40d3a71dbc15a8445fe249bdbcfc0d4d",
+          "uuid": "0e8258ed-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.zomato.com/sweet-roots-big-dreams-and-a-whole-lot-of-frosting-the-deliure-story",
+          "urlHash": "1a9b91eaf432957b81255182f13a6336aa5a68df",
+          "uuid": "1a9b91ea-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.zomato.com/q3fy25",
+          "urlHash": "27db95c08b1a4e3028034b45e036cb7aa8cc7213",
+          "uuid": "27db95c0-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.zomato.com/building-a-cost-effective-logging-platform-using-clickhouse-for-petabyte-scale",
+          "urlHash": "3287de4b64493ab67a1364d1d2d061223e044f8a",
+          "uuid": "3287de4b-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.zomato.com/eliminating-bottlenecks-in-real-time-data-streaming-a-zomato-ads-flink-journey",
+          "urlHash": "459a3fd88e644ddef24743995df20d2b1b5cd267",
+          "uuid": "459a3fd8-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.zomato.com/category/company",
+          "urlHash": "5271217c18ce2ad8c628ce471a9a96cc393eeb47",
+          "uuid": "5271217c-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.zomato.com/introducing-zomato-ai-your-foodie-buddy",
+          "urlHash": "5864564f21c7322abccd3886a9015131c6d401c0",
+          "uuid": "5864564f-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.zomato.com/embracing-shift-left-testing-with-local-preview",
+          "urlHash": "59c9ad980491d08b2763d146517e123d1fd82505",
+          "uuid": "59c9ad98-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.zomato.com/category/culture",
+          "urlHash": "59ea1e59199e42ce7e6aa6eb2904912a5f445ae8",
+          "uuid": "59ea1e59-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.zomato.com/q1fy25",
+          "urlHash": "6a11cc530a5d4c75e3dfcebf6c80b148e7c595f7",
+          "uuid": "6a11cc53-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.zomato.com/diversity-dialogue-ii-building-an-inclusive-fleet-insights-from-zomatos-equitable-action-for-livelihood",
+          "urlHash": "6cd5b68b96f9d766efc1795e7b11dad7ff65bd50",
+          "uuid": "6cd5b68b-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.zomato.com/in-the-end-its-all-worth-it",
+          "urlHash": "6f38e9da7dc8ae9dfb3749afde65ea1915bc4f07",
+          "uuid": "6f38e9da-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.zomato.com/q4fy24",
+          "urlHash": "7495a92519801fa9ebc7d8679b879ebb82598d72",
+          "uuid": "7495a925-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.zomato.com/apache-flink-journey-zomato-from-inception-to-innovation",
+          "urlHash": "888c96ebfe02b72583e5eca889e163311e78c7fb",
+          "uuid": "888c96eb-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.zomato.com/introducing-pos-developer-platform-simplifying-integration-with-easy-to-use-tools",
+          "urlHash": "8a049b937e6bef941c0f83b8f5911eb7925a87fb",
+          "uuid": "8a049b93-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.zomato.com/cups-of-change-how-blue-tokai-rewrote-indias-coffee-culture",
+          "urlHash": "8e4361455de4645bccdedccf73dd219c5e44241c",
+          "uuid": "8e436145-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.zomato.com/go-beyond-building-performant-and-reliable-golang-applications",
+          "urlHash": "973a9549e5f4c48ae51c7e6a4c6c43a372176647",
+          "uuid": "973a9549-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.zomato.com/10-years-and-counting",
+          "urlHash": "a6bc19670378ce05471b9e53aaba6326c03bf7b5",
+          "uuid": "a6bc1967-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+          "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+          "uuid": "a88926ee-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.zomato.com/",
+          "urlHash": "aab61d6434db3df26f11008ab9cf96689a3830d0",
+          "uuid": "aab61d64-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.zomato.com/from-the-streets-of-bharat",
+          "urlHash": "aff2de279c83fd41c8c86ec640928d03cb47570d",
+          "uuid": "aff2de27-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.zomato.com/how-two-young-dreamers-built-a-crowd-favourite-eatery-in-ranchi",
+          "urlHash": "b49b788f2740199eb44a42185ee9b7864f3eb4f9",
+          "uuid": "b49b788f-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.zomato.com/category/community",
+          "urlHash": "b64b7565ac1ced05c23085367cffe8fbdca057ca",
+          "uuid": "b64b7565-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.zomato.com/the-business-benefits-of-having-more-women-working-in-warehouses",
+          "urlHash": "b7300200003391a0864fbd43f79d0daa2ac03cf0",
+          "uuid": "b7300200-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.zomato.com/dosas-and-decades-of-deliciousness-the-shri-ganesh-bhavan-story",
+          "urlHash": "be52080646effdf8873183ef67f0d058ccc5ec13",
+          "uuid": "be520806-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.zomato.com/idli-spice-and-everything-nice-mysore-raman-idlis-journey-to-success",
+          "urlHash": "d14a0ed875d1fc0c71d9d2f41aefe1dd758778f8",
+          "uuid": "d14a0ed8-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.zomato.com/delivery-partner-well-being-introducing-a-framework-to-guide-our-efforts",
+          "urlHash": "d7b289752de7f04976b90a3894a756327d2c359a",
+          "uuid": "d7b28975-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.zomato.com/category/technology",
+          "urlHash": "d83f20413e4efb64d4018361b6894f8cbfd8671b",
+          "uuid": "d83f2041-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.zomato.com/espresso-brewing-pdfs-at-zomato-faster-than-you-can-say-cappuccino",
+          "urlHash": "e6417bb99898564c6b723bff11677f519f38cd37",
+          "uuid": "e6417bb9-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.zomato.com/more-inclusive-delivery-fleet",
+          "urlHash": "e7762ad29b24a40e4fdb2ff1e31da6999700be04",
+          "uuid": "e7762ad2-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.zomato.com/zoman-says-pulkit-saraswat",
+          "urlHash": "ebd60907caf2b6370050da276aa83531c4764e02",
+          "uuid": "ebd60907-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://blog.zomato.com/introducing-tips-for-the-kitchen-staff",
+          "urlHash": "f2d9612514235aa5c9d31b46da05a52708f23cbc",
+          "uuid": "f2d96125-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]"
+        }
+      ],
+      "styles": {
+        "height": 450,
+        "background": "rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(239, 241, 243) 4%, rgb(226, 226, 226) 25%, rgb(239, 241, 243) 36%) repeat scroll -726.587px 0px / 100% 100% padding-box border-box"
+      }
+    },
+    {
+      "name": "footer",
+      "path": "/footer",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://blog.zomato.com/q2fy25",
+          "urlHash": "091540bc27f1c1dc9d9c1cea100f9d7b789e75a6",
+          "uuid": "091540bc-04-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://blog.zomato.com/q3fy24",
+          "urlHash": "0943bc7aab47a4f4dd02a63ddebd2fed1294699c",
+          "uuid": "0943bc7a-04-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://blog.zomato.com/zomatos-journey-to-seamless-ios-code-sharing-and-distribution",
+          "urlHash": "0a08f1c3a1d46c61619236187566ec46e4a95962",
+          "uuid": "0a08f1c3-04-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://blog.zomato.com/farewell-akriti",
+          "urlHash": "0e8258ed40d3a71dbc15a8445fe249bdbcfc0d4d",
+          "uuid": "0e8258ed-04-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://blog.zomato.com/sweet-roots-big-dreams-and-a-whole-lot-of-frosting-the-deliure-story",
+          "urlHash": "1a9b91eaf432957b81255182f13a6336aa5a68df",
+          "uuid": "1a9b91ea-04-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://blog.zomato.com/q3fy25",
+          "urlHash": "27db95c08b1a4e3028034b45e036cb7aa8cc7213",
+          "uuid": "27db95c0-04-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://blog.zomato.com/building-a-cost-effective-logging-platform-using-clickhouse-for-petabyte-scale",
+          "urlHash": "3287de4b64493ab67a1364d1d2d061223e044f8a",
+          "uuid": "3287de4b-04-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://blog.zomato.com/eliminating-bottlenecks-in-real-time-data-streaming-a-zomato-ads-flink-journey",
+          "urlHash": "459a3fd88e644ddef24743995df20d2b1b5cd267",
+          "uuid": "459a3fd8-04-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://blog.zomato.com/category/company",
+          "urlHash": "5271217c18ce2ad8c628ce471a9a96cc393eeb47",
+          "uuid": "5271217c-03-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://blog.zomato.com/introducing-zomato-ai-your-foodie-buddy",
+          "urlHash": "5864564f21c7322abccd3886a9015131c6d401c0",
+          "uuid": "5864564f-04-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://blog.zomato.com/embracing-shift-left-testing-with-local-preview",
+          "urlHash": "59c9ad980491d08b2763d146517e123d1fd82505",
+          "uuid": "59c9ad98-04-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://blog.zomato.com/category/culture",
+          "urlHash": "59ea1e59199e42ce7e6aa6eb2904912a5f445ae8",
+          "uuid": "59ea1e59-03-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://blog.zomato.com/q1fy25",
+          "urlHash": "6a11cc530a5d4c75e3dfcebf6c80b148e7c595f7",
+          "uuid": "6a11cc53-04-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://blog.zomato.com/diversity-dialogue-ii-building-an-inclusive-fleet-insights-from-zomatos-equitable-action-for-livelihood",
+          "urlHash": "6cd5b68b96f9d766efc1795e7b11dad7ff65bd50",
+          "uuid": "6cd5b68b-04-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://blog.zomato.com/in-the-end-its-all-worth-it",
+          "urlHash": "6f38e9da7dc8ae9dfb3749afde65ea1915bc4f07",
+          "uuid": "6f38e9da-04-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://blog.zomato.com/q4fy24",
+          "urlHash": "7495a92519801fa9ebc7d8679b879ebb82598d72",
+          "uuid": "7495a925-04-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://blog.zomato.com/apache-flink-journey-zomato-from-inception-to-innovation",
+          "urlHash": "888c96ebfe02b72583e5eca889e163311e78c7fb",
+          "uuid": "888c96eb-04-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://blog.zomato.com/introducing-pos-developer-platform-simplifying-integration-with-easy-to-use-tools",
+          "urlHash": "8a049b937e6bef941c0f83b8f5911eb7925a87fb",
+          "uuid": "8a049b93-04-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://blog.zomato.com/cups-of-change-how-blue-tokai-rewrote-indias-coffee-culture",
+          "urlHash": "8e4361455de4645bccdedccf73dd219c5e44241c",
+          "uuid": "8e436145-04-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://blog.zomato.com/go-beyond-building-performant-and-reliable-golang-applications",
+          "urlHash": "973a9549e5f4c48ae51c7e6a4c6c43a372176647",
+          "uuid": "973a9549-04-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://blog.zomato.com/10-years-and-counting",
+          "urlHash": "a6bc19670378ce05471b9e53aaba6326c03bf7b5",
+          "uuid": "a6bc1967-04-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+          "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+          "uuid": "a88926ee-79-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://blog.zomato.com/",
+          "urlHash": "aab61d6434db3df26f11008ab9cf96689a3830d0",
+          "uuid": "aab61d64-03-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://blog.zomato.com/from-the-streets-of-bharat",
+          "urlHash": "aff2de279c83fd41c8c86ec640928d03cb47570d",
+          "uuid": "aff2de27-04-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://blog.zomato.com/how-two-young-dreamers-built-a-crowd-favourite-eatery-in-ranchi",
+          "urlHash": "b49b788f2740199eb44a42185ee9b7864f3eb4f9",
+          "uuid": "b49b788f-04-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://blog.zomato.com/category/community",
+          "urlHash": "b64b7565ac1ced05c23085367cffe8fbdca057ca",
+          "uuid": "b64b7565-03-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://blog.zomato.com/the-business-benefits-of-having-more-women-working-in-warehouses",
+          "urlHash": "b7300200003391a0864fbd43f79d0daa2ac03cf0",
+          "uuid": "b7300200-04-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://blog.zomato.com/dosas-and-decades-of-deliciousness-the-shri-ganesh-bhavan-story",
+          "urlHash": "be52080646effdf8873183ef67f0d058ccc5ec13",
+          "uuid": "be520806-04-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://blog.zomato.com/idli-spice-and-everything-nice-mysore-raman-idlis-journey-to-success",
+          "urlHash": "d14a0ed875d1fc0c71d9d2f41aefe1dd758778f8",
+          "uuid": "d14a0ed8-04-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://blog.zomato.com/delivery-partner-well-being-introducing-a-framework-to-guide-our-efforts",
+          "urlHash": "d7b289752de7f04976b90a3894a756327d2c359a",
+          "uuid": "d7b28975-04-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://blog.zomato.com/category/technology",
+          "urlHash": "d83f20413e4efb64d4018361b6894f8cbfd8671b",
+          "uuid": "d83f2041-03-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://blog.zomato.com/espresso-brewing-pdfs-at-zomato-faster-than-you-can-say-cappuccino",
+          "urlHash": "e6417bb99898564c6b723bff11677f519f38cd37",
+          "uuid": "e6417bb9-04-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://blog.zomato.com/more-inclusive-delivery-fleet",
+          "urlHash": "e7762ad29b24a40e4fdb2ff1e31da6999700be04",
+          "uuid": "e7762ad2-04-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://blog.zomato.com/zoman-says-pulkit-saraswat",
+          "urlHash": "ebd60907caf2b6370050da276aa83531c4764e02",
+          "uuid": "ebd60907-04-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://blog.zomato.com/introducing-tips-for-the-kitchen-staff",
+          "urlHash": "f2d9612514235aa5c9d31b46da05a52708f23cbc",
+          "uuid": "f2d96125-04-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        }
+      ],
+      "styles": {}
+    }
+  ],
+  "blocks": [
+    {
+      "name": "Cards",
+      "cluster": 1,
+      "source": "Cards",
+      "target": "Cards (cards1)",
+      "key": "cards1",
+      "instances": [
+        {
+          "url": "https://blog.zomato.com/category/company",
+          "urlHash": "5271217c18ce2ad8c628ce471a9a96cc393eeb47",
+          "uuid": "5271217c-02-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://blog.zomato.com/category/culture",
+          "urlHash": "59ea1e59199e42ce7e6aa6eb2904912a5f445ae8",
+          "uuid": "59ea1e59-02-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://blog.zomato.com/",
+          "urlHash": "aab61d6434db3df26f11008ab9cf96689a3830d0",
+          "uuid": "aab61d64-02-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://blog.zomato.com/category/community",
+          "urlHash": "b64b7565ac1ced05c23085367cffe8fbdca057ca",
+          "uuid": "b64b7565-02-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://blog.zomato.com/category/technology",
+          "urlHash": "d83f20413e4efb64d4018361b6894f8cbfd8671b",
+          "uuid": "d83f2041-02-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "Table (no header)",
+      "cluster": 2,
+      "source": "Table (no header)",
+      "target": "Table (no header)",
+      "key": "tableNoHeader2",
+      "instances": [
+        {
+          "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+          "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+          "uuid": "a88926ee-71-60f3a202207bc3274559086006badf3a4e016889",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/div[9]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 3,
+      "source": "Cards",
+      "target": "Cards (cards3)",
+      "key": "cards3",
+      "instances": [
+        {
+          "url": "https://blog.zomato.com/q2fy25",
+          "urlHash": "091540bc27f1c1dc9d9c1cea100f9d7b789e75a6",
+          "uuid": "091540bc-04-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://blog.zomato.com/q3fy24",
+          "urlHash": "0943bc7aab47a4f4dd02a63ddebd2fed1294699c",
+          "uuid": "0943bc7a-04-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://blog.zomato.com/zomatos-journey-to-seamless-ios-code-sharing-and-distribution",
+          "urlHash": "0a08f1c3a1d46c61619236187566ec46e4a95962",
+          "uuid": "0a08f1c3-04-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://blog.zomato.com/farewell-akriti",
+          "urlHash": "0e8258ed40d3a71dbc15a8445fe249bdbcfc0d4d",
+          "uuid": "0e8258ed-04-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://blog.zomato.com/sweet-roots-big-dreams-and-a-whole-lot-of-frosting-the-deliure-story",
+          "urlHash": "1a9b91eaf432957b81255182f13a6336aa5a68df",
+          "uuid": "1a9b91ea-04-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://blog.zomato.com/q3fy25",
+          "urlHash": "27db95c08b1a4e3028034b45e036cb7aa8cc7213",
+          "uuid": "27db95c0-04-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://blog.zomato.com/building-a-cost-effective-logging-platform-using-clickhouse-for-petabyte-scale",
+          "urlHash": "3287de4b64493ab67a1364d1d2d061223e044f8a",
+          "uuid": "3287de4b-04-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://blog.zomato.com/eliminating-bottlenecks-in-real-time-data-streaming-a-zomato-ads-flink-journey",
+          "urlHash": "459a3fd88e644ddef24743995df20d2b1b5cd267",
+          "uuid": "459a3fd8-04-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://blog.zomato.com/introducing-zomato-ai-your-foodie-buddy",
+          "urlHash": "5864564f21c7322abccd3886a9015131c6d401c0",
+          "uuid": "5864564f-04-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://blog.zomato.com/embracing-shift-left-testing-with-local-preview",
+          "urlHash": "59c9ad980491d08b2763d146517e123d1fd82505",
+          "uuid": "59c9ad98-04-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://blog.zomato.com/q1fy25",
+          "urlHash": "6a11cc530a5d4c75e3dfcebf6c80b148e7c595f7",
+          "uuid": "6a11cc53-04-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://blog.zomato.com/diversity-dialogue-ii-building-an-inclusive-fleet-insights-from-zomatos-equitable-action-for-livelihood",
+          "urlHash": "6cd5b68b96f9d766efc1795e7b11dad7ff65bd50",
+          "uuid": "6cd5b68b-04-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://blog.zomato.com/in-the-end-its-all-worth-it",
+          "urlHash": "6f38e9da7dc8ae9dfb3749afde65ea1915bc4f07",
+          "uuid": "6f38e9da-04-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://blog.zomato.com/q4fy24",
+          "urlHash": "7495a92519801fa9ebc7d8679b879ebb82598d72",
+          "uuid": "7495a925-04-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://blog.zomato.com/apache-flink-journey-zomato-from-inception-to-innovation",
+          "urlHash": "888c96ebfe02b72583e5eca889e163311e78c7fb",
+          "uuid": "888c96eb-04-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://blog.zomato.com/introducing-pos-developer-platform-simplifying-integration-with-easy-to-use-tools",
+          "urlHash": "8a049b937e6bef941c0f83b8f5911eb7925a87fb",
+          "uuid": "8a049b93-04-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://blog.zomato.com/cups-of-change-how-blue-tokai-rewrote-indias-coffee-culture",
+          "urlHash": "8e4361455de4645bccdedccf73dd219c5e44241c",
+          "uuid": "8e436145-04-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://blog.zomato.com/go-beyond-building-performant-and-reliable-golang-applications",
+          "urlHash": "973a9549e5f4c48ae51c7e6a4c6c43a372176647",
+          "uuid": "973a9549-04-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://blog.zomato.com/10-years-and-counting",
+          "urlHash": "a6bc19670378ce05471b9e53aaba6326c03bf7b5",
+          "uuid": "a6bc1967-04-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+          "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+          "uuid": "a88926ee-79-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://blog.zomato.com/from-the-streets-of-bharat",
+          "urlHash": "aff2de279c83fd41c8c86ec640928d03cb47570d",
+          "uuid": "aff2de27-04-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://blog.zomato.com/how-two-young-dreamers-built-a-crowd-favourite-eatery-in-ranchi",
+          "urlHash": "b49b788f2740199eb44a42185ee9b7864f3eb4f9",
+          "uuid": "b49b788f-04-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://blog.zomato.com/the-business-benefits-of-having-more-women-working-in-warehouses",
+          "urlHash": "b7300200003391a0864fbd43f79d0daa2ac03cf0",
+          "uuid": "b7300200-04-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://blog.zomato.com/dosas-and-decades-of-deliciousness-the-shri-ganesh-bhavan-story",
+          "urlHash": "be52080646effdf8873183ef67f0d058ccc5ec13",
+          "uuid": "be520806-04-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://blog.zomato.com/idli-spice-and-everything-nice-mysore-raman-idlis-journey-to-success",
+          "urlHash": "d14a0ed875d1fc0c71d9d2f41aefe1dd758778f8",
+          "uuid": "d14a0ed8-04-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://blog.zomato.com/delivery-partner-well-being-introducing-a-framework-to-guide-our-efforts",
+          "urlHash": "d7b289752de7f04976b90a3894a756327d2c359a",
+          "uuid": "d7b28975-04-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://blog.zomato.com/espresso-brewing-pdfs-at-zomato-faster-than-you-can-say-cappuccino",
+          "urlHash": "e6417bb99898564c6b723bff11677f519f38cd37",
+          "uuid": "e6417bb9-04-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://blog.zomato.com/more-inclusive-delivery-fleet",
+          "urlHash": "e7762ad29b24a40e4fdb2ff1e31da6999700be04",
+          "uuid": "e7762ad2-04-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://blog.zomato.com/zoman-says-pulkit-saraswat",
+          "urlHash": "ebd60907caf2b6370050da276aa83531c4764e02",
+          "uuid": "ebd60907-04-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://blog.zomato.com/introducing-tips-for-the-kitchen-staff",
+          "urlHash": "f2d9612514235aa5c9d31b46da05a52708f23cbc",
+          "uuid": "f2d96125-04-b4845f5561bf619058e53b5c082f05b778269446",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+        }
+      ]
+    }
+  ],
+  "outliers": [
+    {
+      "url": "https://blog.zomato.com/q2fy25",
+      "urlHash": "091540bc27f1c1dc9d9c1cea100f9d7b789e75a6",
+      "uuid": "091540bc-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://blog.zomato.com/q2fy25",
+      "urlHash": "091540bc27f1c1dc9d9c1cea100f9d7b789e75a6",
+      "uuid": "091540bc-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://blog.zomato.com/q2fy25",
+      "urlHash": "091540bc27f1c1dc9d9c1cea100f9d7b789e75a6",
+      "uuid": "091540bc-02-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://blog.zomato.com/q2fy25",
+      "urlHash": "091540bc27f1c1dc9d9c1cea100f9d7b789e75a6",
+      "uuid": "091540bc-03-e9be1589175271f0efe33923770afbcb06c57766",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/h1[1]"
+    },
+    {
+      "url": "https://blog.zomato.com/q3fy24",
+      "urlHash": "0943bc7aab47a4f4dd02a63ddebd2fed1294699c",
+      "uuid": "0943bc7a-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://blog.zomato.com/q3fy24",
+      "urlHash": "0943bc7aab47a4f4dd02a63ddebd2fed1294699c",
+      "uuid": "0943bc7a-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://blog.zomato.com/q3fy24",
+      "urlHash": "0943bc7aab47a4f4dd02a63ddebd2fed1294699c",
+      "uuid": "0943bc7a-02-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://blog.zomato.com/q3fy24",
+      "urlHash": "0943bc7aab47a4f4dd02a63ddebd2fed1294699c",
+      "uuid": "0943bc7a-03-e9be1589175271f0efe33923770afbcb06c57766",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/h1[1]"
+    },
+    {
+      "url": "https://blog.zomato.com/zomatos-journey-to-seamless-ios-code-sharing-and-distribution",
+      "urlHash": "0a08f1c3a1d46c61619236187566ec46e4a95962",
+      "uuid": "0a08f1c3-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://blog.zomato.com/zomatos-journey-to-seamless-ios-code-sharing-and-distribution",
+      "urlHash": "0a08f1c3a1d46c61619236187566ec46e4a95962",
+      "uuid": "0a08f1c3-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://blog.zomato.com/zomatos-journey-to-seamless-ios-code-sharing-and-distribution",
+      "urlHash": "0a08f1c3a1d46c61619236187566ec46e4a95962",
+      "uuid": "0a08f1c3-02-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://blog.zomato.com/zomatos-journey-to-seamless-ios-code-sharing-and-distribution",
+      "urlHash": "0a08f1c3a1d46c61619236187566ec46e4a95962",
+      "uuid": "0a08f1c3-03-e9be1589175271f0efe33923770afbcb06c57766",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/h1[1]"
+    },
+    {
+      "url": "https://blog.zomato.com/farewell-akriti",
+      "urlHash": "0e8258ed40d3a71dbc15a8445fe249bdbcfc0d4d",
+      "uuid": "0e8258ed-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://blog.zomato.com/farewell-akriti",
+      "urlHash": "0e8258ed40d3a71dbc15a8445fe249bdbcfc0d4d",
+      "uuid": "0e8258ed-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://blog.zomato.com/farewell-akriti",
+      "urlHash": "0e8258ed40d3a71dbc15a8445fe249bdbcfc0d4d",
+      "uuid": "0e8258ed-02-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://blog.zomato.com/farewell-akriti",
+      "urlHash": "0e8258ed40d3a71dbc15a8445fe249bdbcfc0d4d",
+      "uuid": "0e8258ed-03-e9be1589175271f0efe33923770afbcb06c57766",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/h1[1]"
+    },
+    {
+      "url": "https://blog.zomato.com/sweet-roots-big-dreams-and-a-whole-lot-of-frosting-the-deliure-story",
+      "urlHash": "1a9b91eaf432957b81255182f13a6336aa5a68df",
+      "uuid": "1a9b91ea-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-5"
+    },
+    {
+      "url": "https://blog.zomato.com/sweet-roots-big-dreams-and-a-whole-lot-of-frosting-the-deliure-story",
+      "urlHash": "1a9b91eaf432957b81255182f13a6336aa5a68df",
+      "uuid": "1a9b91ea-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://blog.zomato.com/sweet-roots-big-dreams-and-a-whole-lot-of-frosting-the-deliure-story",
+      "urlHash": "1a9b91eaf432957b81255182f13a6336aa5a68df",
+      "uuid": "1a9b91ea-02-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://blog.zomato.com/sweet-roots-big-dreams-and-a-whole-lot-of-frosting-the-deliure-story",
+      "urlHash": "1a9b91eaf432957b81255182f13a6336aa5a68df",
+      "uuid": "1a9b91ea-03-e9be1589175271f0efe33923770afbcb06c57766",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/h1[1]"
+    },
+    {
+      "url": "https://blog.zomato.com/q3fy25",
+      "urlHash": "27db95c08b1a4e3028034b45e036cb7aa8cc7213",
+      "uuid": "27db95c0-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-6"
+    },
+    {
+      "url": "https://blog.zomato.com/q3fy25",
+      "urlHash": "27db95c08b1a4e3028034b45e036cb7aa8cc7213",
+      "uuid": "27db95c0-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://blog.zomato.com/q3fy25",
+      "urlHash": "27db95c08b1a4e3028034b45e036cb7aa8cc7213",
+      "uuid": "27db95c0-02-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://blog.zomato.com/q3fy25",
+      "urlHash": "27db95c08b1a4e3028034b45e036cb7aa8cc7213",
+      "uuid": "27db95c0-03-e9be1589175271f0efe33923770afbcb06c57766",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/h1[1]"
+    },
+    {
+      "url": "https://blog.zomato.com/building-a-cost-effective-logging-platform-using-clickhouse-for-petabyte-scale",
+      "urlHash": "3287de4b64493ab67a1364d1d2d061223e044f8a",
+      "uuid": "3287de4b-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-7"
+    },
+    {
+      "url": "https://blog.zomato.com/building-a-cost-effective-logging-platform-using-clickhouse-for-petabyte-scale",
+      "urlHash": "3287de4b64493ab67a1364d1d2d061223e044f8a",
+      "uuid": "3287de4b-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://blog.zomato.com/building-a-cost-effective-logging-platform-using-clickhouse-for-petabyte-scale",
+      "urlHash": "3287de4b64493ab67a1364d1d2d061223e044f8a",
+      "uuid": "3287de4b-02-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://blog.zomato.com/building-a-cost-effective-logging-platform-using-clickhouse-for-petabyte-scale",
+      "urlHash": "3287de4b64493ab67a1364d1d2d061223e044f8a",
+      "uuid": "3287de4b-03-e9be1589175271f0efe33923770afbcb06c57766",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/h1[1]"
+    },
+    {
+      "url": "https://blog.zomato.com/eliminating-bottlenecks-in-real-time-data-streaming-a-zomato-ads-flink-journey",
+      "urlHash": "459a3fd88e644ddef24743995df20d2b1b5cd267",
+      "uuid": "459a3fd8-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-8"
+    },
+    {
+      "url": "https://blog.zomato.com/eliminating-bottlenecks-in-real-time-data-streaming-a-zomato-ads-flink-journey",
+      "urlHash": "459a3fd88e644ddef24743995df20d2b1b5cd267",
+      "uuid": "459a3fd8-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://blog.zomato.com/eliminating-bottlenecks-in-real-time-data-streaming-a-zomato-ads-flink-journey",
+      "urlHash": "459a3fd88e644ddef24743995df20d2b1b5cd267",
+      "uuid": "459a3fd8-02-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://blog.zomato.com/eliminating-bottlenecks-in-real-time-data-streaming-a-zomato-ads-flink-journey",
+      "urlHash": "459a3fd88e644ddef24743995df20d2b1b5cd267",
+      "uuid": "459a3fd8-03-e9be1589175271f0efe33923770afbcb06c57766",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/h1[1]"
+    },
+    {
+      "url": "https://blog.zomato.com/category/company",
+      "urlHash": "5271217c18ce2ad8c628ce471a9a96cc393eeb47",
+      "uuid": "5271217c-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-9"
+    },
+    {
+      "url": "https://blog.zomato.com/category/company",
+      "urlHash": "5271217c18ce2ad8c628ce471a9a96cc393eeb47",
+      "uuid": "5271217c-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]",
+      "section": "section-10"
+    },
+    {
+      "url": "https://blog.zomato.com/category/company",
+      "urlHash": "5271217c18ce2ad8c628ce471a9a96cc393eeb47",
+      "uuid": "5271217c-03-b4845f5561bf619058e53b5c082f05b778269446",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://blog.zomato.com/introducing-zomato-ai-your-foodie-buddy",
+      "urlHash": "5864564f21c7322abccd3886a9015131c6d401c0",
+      "uuid": "5864564f-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-11"
+    },
+    {
+      "url": "https://blog.zomato.com/introducing-zomato-ai-your-foodie-buddy",
+      "urlHash": "5864564f21c7322abccd3886a9015131c6d401c0",
+      "uuid": "5864564f-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://blog.zomato.com/introducing-zomato-ai-your-foodie-buddy",
+      "urlHash": "5864564f21c7322abccd3886a9015131c6d401c0",
+      "uuid": "5864564f-02-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://blog.zomato.com/introducing-zomato-ai-your-foodie-buddy",
+      "urlHash": "5864564f21c7322abccd3886a9015131c6d401c0",
+      "uuid": "5864564f-03-e9be1589175271f0efe33923770afbcb06c57766",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/h1[1]"
+    },
+    {
+      "url": "https://blog.zomato.com/embracing-shift-left-testing-with-local-preview",
+      "urlHash": "59c9ad980491d08b2763d146517e123d1fd82505",
+      "uuid": "59c9ad98-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-12"
+    },
+    {
+      "url": "https://blog.zomato.com/embracing-shift-left-testing-with-local-preview",
+      "urlHash": "59c9ad980491d08b2763d146517e123d1fd82505",
+      "uuid": "59c9ad98-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://blog.zomato.com/embracing-shift-left-testing-with-local-preview",
+      "urlHash": "59c9ad980491d08b2763d146517e123d1fd82505",
+      "uuid": "59c9ad98-02-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://blog.zomato.com/embracing-shift-left-testing-with-local-preview",
+      "urlHash": "59c9ad980491d08b2763d146517e123d1fd82505",
+      "uuid": "59c9ad98-03-e9be1589175271f0efe33923770afbcb06c57766",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/h1[1]"
+    },
+    {
+      "url": "https://blog.zomato.com/category/culture",
+      "urlHash": "59ea1e59199e42ce7e6aa6eb2904912a5f445ae8",
+      "uuid": "59ea1e59-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-13"
+    },
+    {
+      "url": "https://blog.zomato.com/category/culture",
+      "urlHash": "59ea1e59199e42ce7e6aa6eb2904912a5f445ae8",
+      "uuid": "59ea1e59-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]",
+      "section": "section-10"
+    },
+    {
+      "url": "https://blog.zomato.com/category/culture",
+      "urlHash": "59ea1e59199e42ce7e6aa6eb2904912a5f445ae8",
+      "uuid": "59ea1e59-03-b4845f5561bf619058e53b5c082f05b778269446",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://blog.zomato.com/q1fy25",
+      "urlHash": "6a11cc530a5d4c75e3dfcebf6c80b148e7c595f7",
+      "uuid": "6a11cc53-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-14"
+    },
+    {
+      "url": "https://blog.zomato.com/q1fy25",
+      "urlHash": "6a11cc530a5d4c75e3dfcebf6c80b148e7c595f7",
+      "uuid": "6a11cc53-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://blog.zomato.com/q1fy25",
+      "urlHash": "6a11cc530a5d4c75e3dfcebf6c80b148e7c595f7",
+      "uuid": "6a11cc53-02-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://blog.zomato.com/q1fy25",
+      "urlHash": "6a11cc530a5d4c75e3dfcebf6c80b148e7c595f7",
+      "uuid": "6a11cc53-03-e9be1589175271f0efe33923770afbcb06c57766",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/h1[1]"
+    },
+    {
+      "url": "https://blog.zomato.com/diversity-dialogue-ii-building-an-inclusive-fleet-insights-from-zomatos-equitable-action-for-livelihood",
+      "urlHash": "6cd5b68b96f9d766efc1795e7b11dad7ff65bd50",
+      "uuid": "6cd5b68b-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-15"
+    },
+    {
+      "url": "https://blog.zomato.com/diversity-dialogue-ii-building-an-inclusive-fleet-insights-from-zomatos-equitable-action-for-livelihood",
+      "urlHash": "6cd5b68b96f9d766efc1795e7b11dad7ff65bd50",
+      "uuid": "6cd5b68b-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://blog.zomato.com/diversity-dialogue-ii-building-an-inclusive-fleet-insights-from-zomatos-equitable-action-for-livelihood",
+      "urlHash": "6cd5b68b96f9d766efc1795e7b11dad7ff65bd50",
+      "uuid": "6cd5b68b-02-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://blog.zomato.com/diversity-dialogue-ii-building-an-inclusive-fleet-insights-from-zomatos-equitable-action-for-livelihood",
+      "urlHash": "6cd5b68b96f9d766efc1795e7b11dad7ff65bd50",
+      "uuid": "6cd5b68b-03-e9be1589175271f0efe33923770afbcb06c57766",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/h1[1]"
+    },
+    {
+      "url": "https://blog.zomato.com/in-the-end-its-all-worth-it",
+      "urlHash": "6f38e9da7dc8ae9dfb3749afde65ea1915bc4f07",
+      "uuid": "6f38e9da-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-16"
+    },
+    {
+      "url": "https://blog.zomato.com/in-the-end-its-all-worth-it",
+      "urlHash": "6f38e9da7dc8ae9dfb3749afde65ea1915bc4f07",
+      "uuid": "6f38e9da-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://blog.zomato.com/in-the-end-its-all-worth-it",
+      "urlHash": "6f38e9da7dc8ae9dfb3749afde65ea1915bc4f07",
+      "uuid": "6f38e9da-02-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://blog.zomato.com/in-the-end-its-all-worth-it",
+      "urlHash": "6f38e9da7dc8ae9dfb3749afde65ea1915bc4f07",
+      "uuid": "6f38e9da-03-e9be1589175271f0efe33923770afbcb06c57766",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/h1[1]"
+    },
+    {
+      "url": "https://blog.zomato.com/q4fy24",
+      "urlHash": "7495a92519801fa9ebc7d8679b879ebb82598d72",
+      "uuid": "7495a925-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-17"
+    },
+    {
+      "url": "https://blog.zomato.com/q4fy24",
+      "urlHash": "7495a92519801fa9ebc7d8679b879ebb82598d72",
+      "uuid": "7495a925-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://blog.zomato.com/q4fy24",
+      "urlHash": "7495a92519801fa9ebc7d8679b879ebb82598d72",
+      "uuid": "7495a925-02-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://blog.zomato.com/q4fy24",
+      "urlHash": "7495a92519801fa9ebc7d8679b879ebb82598d72",
+      "uuid": "7495a925-03-e9be1589175271f0efe33923770afbcb06c57766",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/h1[1]"
+    },
+    {
+      "url": "https://blog.zomato.com/apache-flink-journey-zomato-from-inception-to-innovation",
+      "urlHash": "888c96ebfe02b72583e5eca889e163311e78c7fb",
+      "uuid": "888c96eb-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-18"
+    },
+    {
+      "url": "https://blog.zomato.com/apache-flink-journey-zomato-from-inception-to-innovation",
+      "urlHash": "888c96ebfe02b72583e5eca889e163311e78c7fb",
+      "uuid": "888c96eb-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://blog.zomato.com/apache-flink-journey-zomato-from-inception-to-innovation",
+      "urlHash": "888c96ebfe02b72583e5eca889e163311e78c7fb",
+      "uuid": "888c96eb-02-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://blog.zomato.com/apache-flink-journey-zomato-from-inception-to-innovation",
+      "urlHash": "888c96ebfe02b72583e5eca889e163311e78c7fb",
+      "uuid": "888c96eb-03-e9be1589175271f0efe33923770afbcb06c57766",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/h1[1]"
+    },
+    {
+      "url": "https://blog.zomato.com/introducing-pos-developer-platform-simplifying-integration-with-easy-to-use-tools",
+      "urlHash": "8a049b937e6bef941c0f83b8f5911eb7925a87fb",
+      "uuid": "8a049b93-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-19"
+    },
+    {
+      "url": "https://blog.zomato.com/introducing-pos-developer-platform-simplifying-integration-with-easy-to-use-tools",
+      "urlHash": "8a049b937e6bef941c0f83b8f5911eb7925a87fb",
+      "uuid": "8a049b93-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://blog.zomato.com/introducing-pos-developer-platform-simplifying-integration-with-easy-to-use-tools",
+      "urlHash": "8a049b937e6bef941c0f83b8f5911eb7925a87fb",
+      "uuid": "8a049b93-02-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://blog.zomato.com/introducing-pos-developer-platform-simplifying-integration-with-easy-to-use-tools",
+      "urlHash": "8a049b937e6bef941c0f83b8f5911eb7925a87fb",
+      "uuid": "8a049b93-03-e9be1589175271f0efe33923770afbcb06c57766",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/h1[1]"
+    },
+    {
+      "url": "https://blog.zomato.com/cups-of-change-how-blue-tokai-rewrote-indias-coffee-culture",
+      "urlHash": "8e4361455de4645bccdedccf73dd219c5e44241c",
+      "uuid": "8e436145-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-20"
+    },
+    {
+      "url": "https://blog.zomato.com/cups-of-change-how-blue-tokai-rewrote-indias-coffee-culture",
+      "urlHash": "8e4361455de4645bccdedccf73dd219c5e44241c",
+      "uuid": "8e436145-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://blog.zomato.com/cups-of-change-how-blue-tokai-rewrote-indias-coffee-culture",
+      "urlHash": "8e4361455de4645bccdedccf73dd219c5e44241c",
+      "uuid": "8e436145-02-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://blog.zomato.com/cups-of-change-how-blue-tokai-rewrote-indias-coffee-culture",
+      "urlHash": "8e4361455de4645bccdedccf73dd219c5e44241c",
+      "uuid": "8e436145-03-e9be1589175271f0efe33923770afbcb06c57766",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/h1[1]"
+    },
+    {
+      "url": "https://blog.zomato.com/go-beyond-building-performant-and-reliable-golang-applications",
+      "urlHash": "973a9549e5f4c48ae51c7e6a4c6c43a372176647",
+      "uuid": "973a9549-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-21"
+    },
+    {
+      "url": "https://blog.zomato.com/go-beyond-building-performant-and-reliable-golang-applications",
+      "urlHash": "973a9549e5f4c48ae51c7e6a4c6c43a372176647",
+      "uuid": "973a9549-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://blog.zomato.com/go-beyond-building-performant-and-reliable-golang-applications",
+      "urlHash": "973a9549e5f4c48ae51c7e6a4c6c43a372176647",
+      "uuid": "973a9549-02-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://blog.zomato.com/go-beyond-building-performant-and-reliable-golang-applications",
+      "urlHash": "973a9549e5f4c48ae51c7e6a4c6c43a372176647",
+      "uuid": "973a9549-03-e9be1589175271f0efe33923770afbcb06c57766",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/h1[1]"
+    },
+    {
+      "url": "https://blog.zomato.com/10-years-and-counting",
+      "urlHash": "a6bc19670378ce05471b9e53aaba6326c03bf7b5",
+      "uuid": "a6bc1967-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-22"
+    },
+    {
+      "url": "https://blog.zomato.com/10-years-and-counting",
+      "urlHash": "a6bc19670378ce05471b9e53aaba6326c03bf7b5",
+      "uuid": "a6bc1967-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://blog.zomato.com/10-years-and-counting",
+      "urlHash": "a6bc19670378ce05471b9e53aaba6326c03bf7b5",
+      "uuid": "a6bc1967-02-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://blog.zomato.com/10-years-and-counting",
+      "urlHash": "a6bc19670378ce05471b9e53aaba6326c03bf7b5",
+      "uuid": "a6bc1967-03-e9be1589175271f0efe33923770afbcb06c57766",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/h1[1]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-23"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-01-86bfa6851a4fa496ba0321444cd03ee2e36c973f",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-02-d18f7b75a1b41458f39fb6fbc3649cc6191d3a45",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-03-18869368a49a6ef124ad29cb20022f291b637421",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/p[1]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-04-9a31a56600b5689170c8bcbca8c0051a0c02f7ac",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/p[2]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-05-68688165503f028a19ec9e2a96da82e772185b6a",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/p[3]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-06-87465f99c183b3ae19c774778e399bbe7d6fe8e4",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/p[4]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-07-6e24866b151021e5cc0ded4480114bbb3933a1cf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/p[5]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-08-dc0556836f15a50e30292e44d7489b205bc31d0d",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/ul[1]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-09-5817e800b08106ea90cdd03d0e440cd2f0746e59",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/div[1]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-10-57971b28e523e6ee9fb4208b81021485b5cdde3e",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/p[6]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-11-ca8452a04b0b334f1d1fa3b00015d3b5c98803a4",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/p[7]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-12-5f1beadaf06b9dd17843e0a2ecfc42c79ef08d10",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/p[8]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-13-1d2b5cd33230efe50099236b8f28c4dc45332b03",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/ul[2]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-14-d595c3dc718370d4ccc972fa06ad96b1d25940df",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/p[9]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-15-9061f8cf1ceb8acab0f980f2f12d2fb3f6aa61e3",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/p[10]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-16-e07c6f2318e50129790e14fb7a2df3aab234ad6f",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/p[11]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-17-50659fbaf3c5d74e2735ca4433547b74a8310923",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/p[12]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-18-e327dc675eae3502aec5dfb2b0411b46c1412475",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/p[13]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-19-57dc5c85b2f97f532a8c872fdcac624f20b22ac9",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/ul[3]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-20-5a4b062d23dee4c35447071df55cbf7480cd2df0",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/div[2]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-21-86fcfcdde3e2965ad4cb325b18ad04cf46737250",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/ul[4]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-22-2a99d6cd792f1158ea6ae19db9a638365d92ea0c",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/p[14]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-23-4677da3ea601a8506156c46295c77db0666bdb9c",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/p[15]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-24-8eaace27654a287a607a9781f26b97a348e4e49c",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/p[16]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-25-a101f02d5e6ea8e4f4cc44d0295cc23b8891404e",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/p[17]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-26-5cf982d09bf2ac10a2cec0aced84ab8df70eccca",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/p[18]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-27-a5ef3d1504b25da358cc473e425cf5cf24c4428c",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/ul[5]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-28-9eb79eee1c5013d3c288e29333ea4c2a2be1d408",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/p[19]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-29-d5b6f437e3662e9aa48f5c92c234748fa5a1e12d",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/p[20]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-30-2beba692784eb6da7d52ddcafe7777de04c1584d",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/div[3]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-31-c55e0eaeb46672162a8aaeabe81c684614af7734",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/p[21]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-32-c35251decf4678108adbc741cc0e674de584b625",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/p[22]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-33-5cc2dab7ced6ae511cc7c7a4594955bf27a513b4",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/ul[6]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-34-53c44b0a6b3c4afdcb088643f70257836de71137",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/p[23]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-35-d5e713d3cb4440e9808cc6c7383fcff6d6067881",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/p[24]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-36-8a7bcd545d06ff64b8aa06c015c6679916ca1fdd",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/div[4]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-37-71d91728ed683fdd588eef5487754fba1cab1e6c",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/p[25]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-38-55295b929a555ab6e0131329349829550aeaad9d",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/p[26]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-39-9c8cdf0629889e2976c99663dc92ea2f201e19cd",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/p[27]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-40-3b3ffd4cddc4a5124e835d4d35200bf0d2c1dd86",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/div[5]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-41-d11d5dba9da4e9ace858e3ba97be6c23ac7f4aa8",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/p[28]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-42-ffc078cfb971d98efcaac6bdbbd23c38d4292d27",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/p[29]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-43-8e43f9794c67aae6605fbecba5d285c9d514b6e6",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/ol[1]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-44-c591fdd947d20482aee1b2cd4e722a0740a5bdd9",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/p[30]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-45-978c4a5e1f5e35626cd87f1e11011cdcf69529e1",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/p[31]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-46-e1d976af93b011326b51342d8dcb1fe1abb5c512",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/p[32]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-47-ba2149f201a6321adec2439d905f45a970b10509",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/p[33]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-48-19933a62f7abacfdf7414945bee5e8eac9d6c84f",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/p[34]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-49-f626dd934646871bdd4a1901cb088d2583ecb68b",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/ul[7]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-50-aa1b0610d374f0df27a32dfae8dc3f7bbb498b61",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/p[35]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-51-c1e50c2899c7ece6998ae5efee5c130e5aa210ad",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/div[6]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-52-56c380483324ab845a69892a9deeddff72739537",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/p[36]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-53-ae00a92daad85ff6ca6844b8c841b90a3b31bed6",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/ul[8]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-54-ee9acefa2f708bd0f63d975b599148bc67737656",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/p[37]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-55-50886bb204250594db256b93ffa0c1fc27971806",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/p[38]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-56-520bffafeff08a34f74b9c8da94aa4f8756f03c0",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/p[39]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-57-4ce880ccdbace4c4a9f8c76130c6247a27636d16",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/div[7]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-58-d0bc631954bf56daf49b2f662e6ab4886582afef",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/p[40]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-59-9dc1777533876ddb6f10a25b2b2f2f54f5708faa",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/p[41]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-60-3a85342c3d2f85b10b2026e66fb6bf125d64c0f5",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/p[42]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-61-6147c055f6979993925115716a99fd7eb33bba8e",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/ul[9]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-62-35c91936454bc8f8ffaa2fc59ba30b4d3337a837",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/p[43]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-63-1c309e029b829add4f6c8a72b03071dbc36c81a3",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/div[8]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-64-dcc9887d2a87953ad0c6d0ddb59d88f6a38b18fa",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/p[44]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-65-bb38dd21f1991d9717133046da231fcf49ec6a33",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/ul[10]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-66-cc5efc9f0819347bf752de201f38aa7b0720fe32",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/p[45]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-67-68a8318355563fe04c91c8fa6a47dc9b301ae43b",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/p[46]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-68-721e3fe839c87df5e87cf375b956a884101d2a2c",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/ol[2]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-69-622bdf33c5e92860f6086aa82da5fd18b4c8497b",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/p[47]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-70-713b5877e62c8d792ce9af9014ed9ea53b51d421",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/p[48]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-72-c9e637d03dc06050c5920b9f7196843e2cb0adba",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/p[49]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-73-c90ed0c501ac1cb78ac0506fb7d3b1fb041c2f43",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/p[50]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-74-66367991122ed585d2981113906337b1e0a5068b",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/ul[11]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-75-c30ee791fa3f1b6d5b82047be64fe00f87341800",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/p[51]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-76-aabeb6f0c0f16fcd420bcb71937a9b25611333c7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/p[52]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-77-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "urlHash": "a88926ee085e7d39eab694cf5b918cb49b56a236",
+      "uuid": "a88926ee-78-e9be1589175271f0efe33923770afbcb06c57766",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/h1[1]"
+    },
+    {
+      "url": "https://blog.zomato.com/",
+      "urlHash": "aab61d6434db3df26f11008ab9cf96689a3830d0",
+      "uuid": "aab61d64-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-24"
+    },
+    {
+      "url": "https://blog.zomato.com/",
+      "urlHash": "aab61d6434db3df26f11008ab9cf96689a3830d0",
+      "uuid": "aab61d64-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]",
+      "section": "section-10"
+    },
+    {
+      "url": "https://blog.zomato.com/",
+      "urlHash": "aab61d6434db3df26f11008ab9cf96689a3830d0",
+      "uuid": "aab61d64-03-b4845f5561bf619058e53b5c082f05b778269446",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://blog.zomato.com/from-the-streets-of-bharat",
+      "urlHash": "aff2de279c83fd41c8c86ec640928d03cb47570d",
+      "uuid": "aff2de27-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-25"
+    },
+    {
+      "url": "https://blog.zomato.com/from-the-streets-of-bharat",
+      "urlHash": "aff2de279c83fd41c8c86ec640928d03cb47570d",
+      "uuid": "aff2de27-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://blog.zomato.com/from-the-streets-of-bharat",
+      "urlHash": "aff2de279c83fd41c8c86ec640928d03cb47570d",
+      "uuid": "aff2de27-02-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://blog.zomato.com/from-the-streets-of-bharat",
+      "urlHash": "aff2de279c83fd41c8c86ec640928d03cb47570d",
+      "uuid": "aff2de27-03-e9be1589175271f0efe33923770afbcb06c57766",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/h1[1]"
+    },
+    {
+      "url": "https://blog.zomato.com/how-two-young-dreamers-built-a-crowd-favourite-eatery-in-ranchi",
+      "urlHash": "b49b788f2740199eb44a42185ee9b7864f3eb4f9",
+      "uuid": "b49b788f-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-26"
+    },
+    {
+      "url": "https://blog.zomato.com/how-two-young-dreamers-built-a-crowd-favourite-eatery-in-ranchi",
+      "urlHash": "b49b788f2740199eb44a42185ee9b7864f3eb4f9",
+      "uuid": "b49b788f-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://blog.zomato.com/how-two-young-dreamers-built-a-crowd-favourite-eatery-in-ranchi",
+      "urlHash": "b49b788f2740199eb44a42185ee9b7864f3eb4f9",
+      "uuid": "b49b788f-02-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://blog.zomato.com/how-two-young-dreamers-built-a-crowd-favourite-eatery-in-ranchi",
+      "urlHash": "b49b788f2740199eb44a42185ee9b7864f3eb4f9",
+      "uuid": "b49b788f-03-e9be1589175271f0efe33923770afbcb06c57766",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/h1[1]"
+    },
+    {
+      "url": "https://blog.zomato.com/category/community",
+      "urlHash": "b64b7565ac1ced05c23085367cffe8fbdca057ca",
+      "uuid": "b64b7565-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-27"
+    },
+    {
+      "url": "https://blog.zomato.com/category/community",
+      "urlHash": "b64b7565ac1ced05c23085367cffe8fbdca057ca",
+      "uuid": "b64b7565-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]",
+      "section": "section-10"
+    },
+    {
+      "url": "https://blog.zomato.com/category/community",
+      "urlHash": "b64b7565ac1ced05c23085367cffe8fbdca057ca",
+      "uuid": "b64b7565-03-b4845f5561bf619058e53b5c082f05b778269446",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://blog.zomato.com/the-business-benefits-of-having-more-women-working-in-warehouses",
+      "urlHash": "b7300200003391a0864fbd43f79d0daa2ac03cf0",
+      "uuid": "b7300200-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-28"
+    },
+    {
+      "url": "https://blog.zomato.com/the-business-benefits-of-having-more-women-working-in-warehouses",
+      "urlHash": "b7300200003391a0864fbd43f79d0daa2ac03cf0",
+      "uuid": "b7300200-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://blog.zomato.com/the-business-benefits-of-having-more-women-working-in-warehouses",
+      "urlHash": "b7300200003391a0864fbd43f79d0daa2ac03cf0",
+      "uuid": "b7300200-02-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://blog.zomato.com/the-business-benefits-of-having-more-women-working-in-warehouses",
+      "urlHash": "b7300200003391a0864fbd43f79d0daa2ac03cf0",
+      "uuid": "b7300200-03-e9be1589175271f0efe33923770afbcb06c57766",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/h1[1]"
+    },
+    {
+      "url": "https://blog.zomato.com/dosas-and-decades-of-deliciousness-the-shri-ganesh-bhavan-story",
+      "urlHash": "be52080646effdf8873183ef67f0d058ccc5ec13",
+      "uuid": "be520806-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-29"
+    },
+    {
+      "url": "https://blog.zomato.com/dosas-and-decades-of-deliciousness-the-shri-ganesh-bhavan-story",
+      "urlHash": "be52080646effdf8873183ef67f0d058ccc5ec13",
+      "uuid": "be520806-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://blog.zomato.com/dosas-and-decades-of-deliciousness-the-shri-ganesh-bhavan-story",
+      "urlHash": "be52080646effdf8873183ef67f0d058ccc5ec13",
+      "uuid": "be520806-02-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://blog.zomato.com/dosas-and-decades-of-deliciousness-the-shri-ganesh-bhavan-story",
+      "urlHash": "be52080646effdf8873183ef67f0d058ccc5ec13",
+      "uuid": "be520806-03-e9be1589175271f0efe33923770afbcb06c57766",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/h1[1]"
+    },
+    {
+      "url": "https://blog.zomato.com/idli-spice-and-everything-nice-mysore-raman-idlis-journey-to-success",
+      "urlHash": "d14a0ed875d1fc0c71d9d2f41aefe1dd758778f8",
+      "uuid": "d14a0ed8-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-30"
+    },
+    {
+      "url": "https://blog.zomato.com/idli-spice-and-everything-nice-mysore-raman-idlis-journey-to-success",
+      "urlHash": "d14a0ed875d1fc0c71d9d2f41aefe1dd758778f8",
+      "uuid": "d14a0ed8-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://blog.zomato.com/idli-spice-and-everything-nice-mysore-raman-idlis-journey-to-success",
+      "urlHash": "d14a0ed875d1fc0c71d9d2f41aefe1dd758778f8",
+      "uuid": "d14a0ed8-02-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://blog.zomato.com/idli-spice-and-everything-nice-mysore-raman-idlis-journey-to-success",
+      "urlHash": "d14a0ed875d1fc0c71d9d2f41aefe1dd758778f8",
+      "uuid": "d14a0ed8-03-e9be1589175271f0efe33923770afbcb06c57766",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/h1[1]"
+    },
+    {
+      "url": "https://blog.zomato.com/delivery-partner-well-being-introducing-a-framework-to-guide-our-efforts",
+      "urlHash": "d7b289752de7f04976b90a3894a756327d2c359a",
+      "uuid": "d7b28975-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-31"
+    },
+    {
+      "url": "https://blog.zomato.com/delivery-partner-well-being-introducing-a-framework-to-guide-our-efforts",
+      "urlHash": "d7b289752de7f04976b90a3894a756327d2c359a",
+      "uuid": "d7b28975-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://blog.zomato.com/delivery-partner-well-being-introducing-a-framework-to-guide-our-efforts",
+      "urlHash": "d7b289752de7f04976b90a3894a756327d2c359a",
+      "uuid": "d7b28975-02-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://blog.zomato.com/delivery-partner-well-being-introducing-a-framework-to-guide-our-efforts",
+      "urlHash": "d7b289752de7f04976b90a3894a756327d2c359a",
+      "uuid": "d7b28975-03-e9be1589175271f0efe33923770afbcb06c57766",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/h1[1]"
+    },
+    {
+      "url": "https://blog.zomato.com/category/technology",
+      "urlHash": "d83f20413e4efb64d4018361b6894f8cbfd8671b",
+      "uuid": "d83f2041-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-32"
+    },
+    {
+      "url": "https://blog.zomato.com/category/technology",
+      "urlHash": "d83f20413e4efb64d4018361b6894f8cbfd8671b",
+      "uuid": "d83f2041-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]",
+      "section": "section-10"
+    },
+    {
+      "url": "https://blog.zomato.com/category/technology",
+      "urlHash": "d83f20413e4efb64d4018361b6894f8cbfd8671b",
+      "uuid": "d83f2041-03-b4845f5561bf619058e53b5c082f05b778269446",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://blog.zomato.com/espresso-brewing-pdfs-at-zomato-faster-than-you-can-say-cappuccino",
+      "urlHash": "e6417bb99898564c6b723bff11677f519f38cd37",
+      "uuid": "e6417bb9-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-33"
+    },
+    {
+      "url": "https://blog.zomato.com/espresso-brewing-pdfs-at-zomato-faster-than-you-can-say-cappuccino",
+      "urlHash": "e6417bb99898564c6b723bff11677f519f38cd37",
+      "uuid": "e6417bb9-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://blog.zomato.com/espresso-brewing-pdfs-at-zomato-faster-than-you-can-say-cappuccino",
+      "urlHash": "e6417bb99898564c6b723bff11677f519f38cd37",
+      "uuid": "e6417bb9-02-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://blog.zomato.com/espresso-brewing-pdfs-at-zomato-faster-than-you-can-say-cappuccino",
+      "urlHash": "e6417bb99898564c6b723bff11677f519f38cd37",
+      "uuid": "e6417bb9-03-e9be1589175271f0efe33923770afbcb06c57766",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/h1[1]"
+    },
+    {
+      "url": "https://blog.zomato.com/more-inclusive-delivery-fleet",
+      "urlHash": "e7762ad29b24a40e4fdb2ff1e31da6999700be04",
+      "uuid": "e7762ad2-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-34"
+    },
+    {
+      "url": "https://blog.zomato.com/more-inclusive-delivery-fleet",
+      "urlHash": "e7762ad29b24a40e4fdb2ff1e31da6999700be04",
+      "uuid": "e7762ad2-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://blog.zomato.com/more-inclusive-delivery-fleet",
+      "urlHash": "e7762ad29b24a40e4fdb2ff1e31da6999700be04",
+      "uuid": "e7762ad2-02-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://blog.zomato.com/more-inclusive-delivery-fleet",
+      "urlHash": "e7762ad29b24a40e4fdb2ff1e31da6999700be04",
+      "uuid": "e7762ad2-03-e9be1589175271f0efe33923770afbcb06c57766",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/h1[1]"
+    },
+    {
+      "url": "https://blog.zomato.com/zoman-says-pulkit-saraswat",
+      "urlHash": "ebd60907caf2b6370050da276aa83531c4764e02",
+      "uuid": "ebd60907-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-35"
+    },
+    {
+      "url": "https://blog.zomato.com/zoman-says-pulkit-saraswat",
+      "urlHash": "ebd60907caf2b6370050da276aa83531c4764e02",
+      "uuid": "ebd60907-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://blog.zomato.com/zoman-says-pulkit-saraswat",
+      "urlHash": "ebd60907caf2b6370050da276aa83531c4764e02",
+      "uuid": "ebd60907-02-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://blog.zomato.com/zoman-says-pulkit-saraswat",
+      "urlHash": "ebd60907caf2b6370050da276aa83531c4764e02",
+      "uuid": "ebd60907-03-e9be1589175271f0efe33923770afbcb06c57766",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/h1[1]"
+    },
+    {
+      "url": "https://blog.zomato.com/introducing-tips-for-the-kitchen-staff",
+      "urlHash": "f2d9612514235aa5c9d31b46da05a52708f23cbc",
+      "uuid": "f2d96125-00-9bdba9f262b3b27bf0c7a22336eb99fb6fab8ce7",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]",
+      "section": "section-36"
+    },
+    {
+      "url": "https://blog.zomato.com/introducing-tips-for-the-kitchen-staff",
+      "urlHash": "f2d9612514235aa5c9d31b46da05a52708f23cbc",
+      "uuid": "f2d96125-01-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://blog.zomato.com/introducing-tips-for-the-kitchen-staff",
+      "urlHash": "f2d9612514235aa5c9d31b46da05a52708f23cbc",
+      "uuid": "f2d96125-02-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://blog.zomato.com/introducing-tips-for-the-kitchen-staff",
+      "urlHash": "f2d9612514235aa5c9d31b46da05a52708f23cbc",
+      "uuid": "f2d96125-03-e9be1589175271f0efe33923770afbcb06c57766",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/h1[1]"
+    }
+  ],
+  "sections": [
+    {
+      "name": "section-1",
+      "background": "rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(239, 241, 243) 4%, rgb(226, 226, 226) 25%, rgb(239, 241, 243) 36%) repeat scroll -880.132px 0px / 100% 100% padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-2",
+      "background": "rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(239, 241, 243) 4%, rgb(226, 226, 226) 25%, rgb(239, 241, 243) 36%) repeat scroll 364.653px 0px / 100% 100% padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-3",
+      "background": "rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(239, 241, 243) 4%, rgb(226, 226, 226) 25%, rgb(239, 241, 243) 36%) repeat scroll -147.026px 0px / 100% 100% padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-4",
+      "background": "rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(239, 241, 243) 4%, rgb(226, 226, 226) 25%, rgb(239, 241, 243) 36%) repeat scroll 758.797px 0px / 100% 100% padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-5",
+      "background": "rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(239, 241, 243) 4%, rgb(226, 226, 226) 25%, rgb(239, 241, 243) 36%) repeat scroll 151.249px 0px / 100% 100% padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-6",
+      "background": "rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(239, 241, 243) 4%, rgb(226, 226, 226) 25%, rgb(239, 241, 243) 36%) repeat scroll -835.574px 0px / 100% 100% padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-7",
+      "background": "rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(239, 241, 243) 4%, rgb(226, 226, 226) 25%, rgb(239, 241, 243) 36%) repeat scroll 959.451px 0px / 100% 100% padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-8",
+      "background": "rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(239, 241, 243) 4%, rgb(226, 226, 226) 25%, rgb(239, 241, 243) 36%) repeat scroll 533.816px 0px / 100% 100% padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-9",
+      "background": "rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(239, 241, 243) 4%, rgb(226, 226, 226) 25%, rgb(239, 241, 243) 36%) repeat scroll -6.90583px 0px / 100% 100% padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-10",
+      "background": "rgb(244, 244, 244) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 5
+    },
+    {
+      "name": "section-11",
+      "background": "rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(239, 241, 243) 4%, rgb(226, 226, 226) 25%, rgb(239, 241, 243) 36%) repeat scroll 990.471px 0px / 100% 100% padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-12",
+      "background": "rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(239, 241, 243) 4%, rgb(226, 226, 226) 25%, rgb(239, 241, 243) 36%) repeat scroll 802.552px 0px / 100% 100% padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-13",
+      "background": "rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(239, 241, 243) 4%, rgb(226, 226, 226) 25%, rgb(239, 241, 243) 36%) repeat scroll 858.035px 0px / 100% 100% padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-14",
+      "background": "rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(239, 241, 243) 4%, rgb(226, 226, 226) 25%, rgb(239, 241, 243) 36%) repeat scroll 432.903px 0px / 100% 100% padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-15",
+      "background": "rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(239, 241, 243) 4%, rgb(226, 226, 226) 25%, rgb(239, 241, 243) 36%) repeat scroll 955.433px 0px / 100% 100% padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-16",
+      "background": "rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(239, 241, 243) 4%, rgb(226, 226, 226) 25%, rgb(239, 241, 243) 36%) repeat scroll -934.316px 0px / 100% 100% padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-17",
+      "background": "rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(239, 241, 243) 4%, rgb(226, 226, 226) 25%, rgb(239, 241, 243) 36%) repeat scroll 721.836px 0px / 100% 100% padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-18",
+      "background": "rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(239, 241, 243) 4%, rgb(226, 226, 226) 25%, rgb(239, 241, 243) 36%) repeat scroll 976.487px 0px / 100% 100% padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-19",
+      "background": "rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(239, 241, 243) 4%, rgb(226, 226, 226) 25%, rgb(239, 241, 243) 36%) repeat scroll 237.034px 0px / 100% 100% padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-20",
+      "background": "rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(239, 241, 243) 4%, rgb(226, 226, 226) 25%, rgb(239, 241, 243) 36%) repeat scroll -7.10733px 0px / 100% 100% padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-21",
+      "background": "rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(239, 241, 243) 4%, rgb(226, 226, 226) 25%, rgb(239, 241, 243) 36%) repeat scroll 931.865px 0px / 100% 100% padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-22",
+      "background": "rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(239, 241, 243) 4%, rgb(226, 226, 226) 25%, rgb(239, 241, 243) 36%) repeat scroll -629.497px 0px / 100% 100% padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-23",
+      "background": "rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(239, 241, 243) 4%, rgb(226, 226, 226) 25%, rgb(239, 241, 243) 36%) repeat scroll 604.508px 0px / 100% 100% padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-24",
+      "background": "rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(239, 241, 243) 4%, rgb(226, 226, 226) 25%, rgb(239, 241, 243) 36%) repeat scroll 895.722px 0px / 100% 100% padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-25",
+      "background": "rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(239, 241, 243) 4%, rgb(226, 226, 226) 25%, rgb(239, 241, 243) 36%) repeat scroll -917.955px 0px / 100% 100% padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-26",
+      "background": "rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(239, 241, 243) 4%, rgb(226, 226, 226) 25%, rgb(239, 241, 243) 36%) repeat scroll -663.395px 0px / 100% 100% padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-27",
+      "background": "rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(239, 241, 243) 4%, rgb(226, 226, 226) 25%, rgb(239, 241, 243) 36%) repeat scroll 831.795px 0px / 100% 100% padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-28",
+      "background": "rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(239, 241, 243) 4%, rgb(226, 226, 226) 25%, rgb(239, 241, 243) 36%) repeat scroll 746.812px 0px / 100% 100% padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-29",
+      "background": "rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(239, 241, 243) 4%, rgb(226, 226, 226) 25%, rgb(239, 241, 243) 36%) repeat scroll -146.809px 0px / 100% 100% padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-30",
+      "background": "rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(239, 241, 243) 4%, rgb(226, 226, 226) 25%, rgb(239, 241, 243) 36%) repeat scroll 812.627px 0px / 100% 100% padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-31",
+      "background": "rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(239, 241, 243) 4%, rgb(226, 226, 226) 25%, rgb(239, 241, 243) 36%) repeat scroll -880.213px 0px / 100% 100% padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-32",
+      "background": "rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(239, 241, 243) 4%, rgb(226, 226, 226) 25%, rgb(239, 241, 243) 36%) repeat scroll 831.812px 0px / 100% 100% padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-33",
+      "background": "rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(239, 241, 243) 4%, rgb(226, 226, 226) 25%, rgb(239, 241, 243) 36%) repeat scroll 340.638px 0px / 100% 100% padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-34",
+      "background": "rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(239, 241, 243) 4%, rgb(226, 226, 226) 25%, rgb(239, 241, 243) 36%) repeat scroll 999.696px 0px / 100% 100% padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-35",
+      "background": "rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(239, 241, 243) 4%, rgb(226, 226, 226) 25%, rgb(239, 241, 243) 36%) repeat scroll 1000px 0px / 100% 100% padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-36",
+      "background": "rgba(0, 0, 0, 0) linear-gradient(90deg, rgb(239, 241, 243) 4%, rgb(226, 226, 226) 25%, rgb(239, 241, 243) 36%) repeat scroll -726.587px 0px / 100% 100% padding-box border-box",
+      "count": 1
+    }
+  ]
+}
