@@ -1,0 +1,231 @@
+{
+  "originUrl": "https://blog.zomato.com",
+  "lastCrawled": "https://blog.zomato.com/",
+  "urls": [
+    {
+      "url": "https://blog.zomato.com/",
+      "source": "CRAWL",
+      "targetPath": "/",
+      "id": "aab61d6434db3df26f11008ab9cf96689a3830d0"
+    },
+    {
+      "url": "https://blog.zomato.com/10-years-and-counting",
+      "source": "CRAWL",
+      "targetPath": "/10-years-and-counting",
+      "id": "a6bc19670378ce05471b9e53aaba6326c03bf7b5"
+    },
+    {
+      "url": "https://blog.zomato.com/apache-flink-journey-zomato-from-inception-to-innovation",
+      "source": "CRAWL",
+      "targetPath": "/apache-flink-journey-zomato-from-inception-to-innovation",
+      "id": "888c96ebfe02b72583e5eca889e163311e78c7fb"
+    },
+    {
+      "url": "https://blog.zomato.com/building-a-cost-effective-logging-platform-using-clickhouse-for-petabyte-scale",
+      "source": "CRAWL",
+      "targetPath": "/building-a-cost-effective-logging-platform-using-clickhouse-for-petabyte-scale",
+      "id": "3287de4b64493ab67a1364d1d2d061223e044f8a"
+    },
+    {
+      "url": "https://blog.zomato.com/category/community",
+      "source": "CRAWL",
+      "targetPath": "/category/community",
+      "id": "b64b7565ac1ced05c23085367cffe8fbdca057ca"
+    },
+    {
+      "url": "https://blog.zomato.com/category/company",
+      "source": "CRAWL",
+      "targetPath": "/category/company",
+      "id": "5271217c18ce2ad8c628ce471a9a96cc393eeb47"
+    },
+    {
+      "url": "https://blog.zomato.com/category/culture",
+      "source": "CRAWL",
+      "targetPath": "/category/culture",
+      "id": "59ea1e59199e42ce7e6aa6eb2904912a5f445ae8"
+    },
+    {
+      "url": "https://blog.zomato.com/category/technology",
+      "source": "CRAWL",
+      "targetPath": "/category/technology",
+      "id": "d83f20413e4efb64d4018361b6894f8cbfd8671b"
+    },
+    {
+      "url": "https://blog.zomato.com/cups-of-change-how-blue-tokai-rewrote-indias-coffee-culture",
+      "source": "CRAWL",
+      "targetPath": "/cups-of-change-how-blue-tokai-rewrote-indias-coffee-culture",
+      "id": "8e4361455de4645bccdedccf73dd219c5e44241c"
+    },
+    {
+      "url": "https://blog.zomato.com/delivery-partner-well-being-introducing-a-framework-to-guide-our-efforts",
+      "source": "CRAWL",
+      "targetPath": "/delivery-partner-well-being-introducing-a-framework-to-guide-our-efforts",
+      "id": "d7b289752de7f04976b90a3894a756327d2c359a"
+    },
+    {
+      "url": "https://blog.zomato.com/diversity-dialogue-ii-building-an-inclusive-fleet-insights-from-zomatos-equitable-action-for-livelihood",
+      "source": "CRAWL",
+      "targetPath": "/diversity-dialogue-ii-building-an-inclusive-fleet-insights-from-zomatos-equitable-action-for-livelihood",
+      "id": "6cd5b68b96f9d766efc1795e7b11dad7ff65bd50"
+    },
+    {
+      "url": "https://blog.zomato.com/dosas-and-decades-of-deliciousness-the-shri-ganesh-bhavan-story",
+      "source": "CRAWL",
+      "targetPath": "/dosas-and-decades-of-deliciousness-the-shri-ganesh-bhavan-story",
+      "id": "be52080646effdf8873183ef67f0d058ccc5ec13"
+    },
+    {
+      "url": "https://blog.zomato.com/eliminating-bottlenecks-in-real-time-data-streaming-a-zomato-ads-flink-journey",
+      "source": "CRAWL",
+      "targetPath": "/eliminating-bottlenecks-in-real-time-data-streaming-a-zomato-ads-flink-journey",
+      "id": "459a3fd88e644ddef24743995df20d2b1b5cd267"
+    },
+    {
+      "url": "https://blog.zomato.com/embracing-shift-left-testing-with-local-preview",
+      "source": "CRAWL",
+      "targetPath": "/embracing-shift-left-testing-with-local-preview",
+      "id": "59c9ad980491d08b2763d146517e123d1fd82505"
+    },
+    {
+      "url": "https://blog.zomato.com/espresso-brewing-pdfs-at-zomato-faster-than-you-can-say-cappuccino",
+      "source": "CRAWL",
+      "targetPath": "/espresso-brewing-pdfs-at-zomato-faster-than-you-can-say-cappuccino",
+      "id": "e6417bb99898564c6b723bff11677f519f38cd37"
+    },
+    {
+      "url": "https://blog.zomato.com/farewell-akriti",
+      "source": "CRAWL",
+      "targetPath": "/farewell-akriti",
+      "id": "0e8258ed40d3a71dbc15a8445fe249bdbcfc0d4d"
+    },
+    {
+      "url": "https://blog.zomato.com/from-the-streets-of-bharat",
+      "source": "CRAWL",
+      "targetPath": "/from-the-streets-of-bharat",
+      "id": "aff2de279c83fd41c8c86ec640928d03cb47570d"
+    },
+    {
+      "url": "https://blog.zomato.com/go-beyond-building-performant-and-reliable-golang-applications",
+      "source": "CRAWL",
+      "targetPath": "/go-beyond-building-performant-and-reliable-golang-applications",
+      "id": "973a9549e5f4c48ae51c7e6a4c6c43a372176647"
+    },
+    {
+      "url": "https://blog.zomato.com/how-two-young-dreamers-built-a-crowd-favourite-eatery-in-ranchi",
+      "source": "CRAWL",
+      "targetPath": "/how-two-young-dreamers-built-a-crowd-favourite-eatery-in-ranchi",
+      "id": "b49b788f2740199eb44a42185ee9b7864f3eb4f9"
+    },
+    {
+      "url": "https://blog.zomato.com/idli-spice-and-everything-nice-mysore-raman-idlis-journey-to-success",
+      "source": "CRAWL",
+      "targetPath": "/idli-spice-and-everything-nice-mysore-raman-idlis-journey-to-success",
+      "id": "d14a0ed875d1fc0c71d9d2f41aefe1dd758778f8"
+    },
+    {
+      "url": "https://blog.zomato.com/in-the-end-its-all-worth-it",
+      "source": "CRAWL",
+      "targetPath": "/in-the-end-its-all-worth-it",
+      "id": "6f38e9da7dc8ae9dfb3749afde65ea1915bc4f07"
+    },
+    {
+      "url": "https://blog.zomato.com/introducing-pos-developer-platform-simplifying-integration-with-easy-to-use-tools",
+      "source": "CRAWL",
+      "targetPath": "/introducing-pos-developer-platform-simplifying-integration-with-easy-to-use-tools",
+      "id": "8a049b937e6bef941c0f83b8f5911eb7925a87fb"
+    },
+    {
+      "url": "https://blog.zomato.com/introducing-tips-for-the-kitchen-staff",
+      "source": "CRAWL",
+      "targetPath": "/introducing-tips-for-the-kitchen-staff",
+      "id": "f2d9612514235aa5c9d31b46da05a52708f23cbc"
+    },
+    {
+      "url": "https://blog.zomato.com/introducing-zomato-ai-your-foodie-buddy",
+      "source": "CRAWL",
+      "targetPath": "/introducing-zomato-ai-your-foodie-buddy",
+      "id": "5864564f21c7322abccd3886a9015131c6d401c0"
+    },
+    {
+      "url": "https://blog.zomato.com/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "source": "CRAWL",
+      "targetPath": "/migrating-to-victoriametrics-a-complete-overhaul-for-enhanced-observability",
+      "id": "a88926ee085e7d39eab694cf5b918cb49b56a236"
+    },
+    {
+      "url": "https://blog.zomato.com/more-inclusive-delivery-fleet",
+      "source": "CRAWL",
+      "targetPath": "/more-inclusive-delivery-fleet",
+      "id": "e7762ad29b24a40e4fdb2ff1e31da6999700be04"
+    },
+    {
+      "url": "https://blog.zomato.com/q1fy25",
+      "source": "CRAWL",
+      "targetPath": "/q1fy25",
+      "id": "6a11cc530a5d4c75e3dfcebf6c80b148e7c595f7"
+    },
+    {
+      "url": "https://blog.zomato.com/q2fy25",
+      "source": "CRAWL",
+      "targetPath": "/q2fy25",
+      "id": "091540bc27f1c1dc9d9c1cea100f9d7b789e75a6"
+    },
+    {
+      "url": "https://blog.zomato.com/q3fy24",
+      "source": "CRAWL",
+      "targetPath": "/q3fy24",
+      "id": "0943bc7aab47a4f4dd02a63ddebd2fed1294699c"
+    },
+    {
+      "url": "https://blog.zomato.com/q3fy25",
+      "source": "CRAWL",
+      "targetPath": "/q3fy25",
+      "id": "27db95c08b1a4e3028034b45e036cb7aa8cc7213"
+    },
+    {
+      "url": "https://blog.zomato.com/q4fy24",
+      "source": "CRAWL",
+      "targetPath": "/q4fy24",
+      "id": "7495a92519801fa9ebc7d8679b879ebb82598d72"
+    },
+    {
+      "url": "https://blog.zomato.com/sweet-roots-big-dreams-and-a-whole-lot-of-frosting-the-deliure-story",
+      "source": "CRAWL",
+      "targetPath": "/sweet-roots-big-dreams-and-a-whole-lot-of-frosting-the-deliure-story",
+      "id": "1a9b91eaf432957b81255182f13a6336aa5a68df"
+    },
+    {
+      "url": "https://blog.zomato.com/the-business-benefits-of-having-more-women-working-in-warehouses",
+      "source": "CRAWL",
+      "targetPath": "/the-business-benefits-of-having-more-women-working-in-warehouses",
+      "id": "b7300200003391a0864fbd43f79d0daa2ac03cf0"
+    },
+    {
+      "url": "https://blog.zomato.com/zoman-says-pulkit-saraswat",
+      "source": "CRAWL",
+      "targetPath": "/zoman-says-pulkit-saraswat",
+      "id": "ebd60907caf2b6370050da276aa83531c4764e02"
+    },
+    {
+      "url": "https://blog.zomato.com/zomatos-journey-to-seamless-ios-code-sharing-and-distribution",
+      "source": "CRAWL",
+      "targetPath": "/zomatos-journey-to-seamless-ios-code-sharing-and-distribution",
+      "id": "0a08f1c3a1d46c61619236187566ec46e4a95962"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "crawl",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS",
+      "CRAWL"
+    ]
+  },
+  "extractionErrors": []
+}
